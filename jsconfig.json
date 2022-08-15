@@ -1,0 +1,8 @@
+{
+    "include": [
+      "./node_modules/cypress",
+      "cypress/**/*.js"
+    ]
+  }
+
+  //This turns on intellisense for complete project

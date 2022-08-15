@@ -1,0 +1,24 @@
+{
+  "name": "cypress_e2e_practice",
+  "version": "1.0.0",
+  "description": "cypress e2e practice ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "surbhi",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.8.0",
+    "cypress-image-snapshot": "^4.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2",
+    "prettier-eslint": "^12.0.0"
+  }
+}
